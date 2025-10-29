@@ -34,5 +34,10 @@ requirements.txt
 README.md
 ```
 
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/mozeiter)
+- 🌍 [Portfolio Website](https://mohammadalzeiter.com)
+- 📧 Email: mohammadalzeiter@email.com
+
 ## ⚠️ Disclaimer
 This tool is for educational and authorized testing purposes only. Do not scan networks without permission.
