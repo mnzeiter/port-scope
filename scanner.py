@@ -1,4 +1,3 @@
-
 import socket
 import nmap
 
@@ -19,3 +18,4 @@ for port in open_ports:
 	nm.scan(target, str(port))
 	service = nm[target]['tcp'][port]['name']
 	print(f"Port {port} is open. Service : {service} ")
+
